@@ -1,22 +1,22 @@
-##Prerequisites
+## Prerequisites
 
 - NodeJS
 - NPM
 - Yarn
 
-##Set up
+## Set up
 
-###Install Lerna globally
+### Install Lerna globally
 ```
 npm i -g lerna
 ```
 
-###Install proyect dependencies
+### Install proyect dependencies
 ```
 lerna bootstrap
 ```
 
-##Run
+## Run
 ```
 cd packages/run
 npm start
