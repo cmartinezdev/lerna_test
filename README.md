@@ -11,7 +11,7 @@
 npm i -g lerna
 ```
 
-### Install proyect dependencies
+### Install project dependencies
 ```
 lerna bootstrap
 ```
